@@ -1,0 +1,31 @@
+{
+"courses" = [
+  {
+    "id": 1,
+    "title": "React JS Bootcamp",
+    "image": "https://scrimba.com/cdn/greact.2599.cover.svg",
+    "price": "39 USD",
+    "instructor": "Ramon"
+  },
+  {
+    "id": 2,
+    "title": "Learn Tailwind CSS",
+    "image": "https://scrimba.com/cdn/gtailwind.2619.cover.svg",
+    "price": "0 USD",
+    "instructor": "Pedro"
+  },
+  {
+    "id": 3,
+    "title": "Learn VUEX",
+    "image": "https://scrimba.com/cdn/gvuex.1005.cover.svg",
+    "price": "0 USD",
+    "instructor": "Josh"
+  },
+  {
+    "id": 4,
+    "title": "Node JS",
+    "price": "",
+    "instructor": "Juan"
+  },
+]
+}
